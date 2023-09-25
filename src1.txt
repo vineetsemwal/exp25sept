@@ -4,8 +4,6 @@
 4)grapes
 5)pineapple
 6) watermelon
-<<<<<<< HEAD
 7) banana
-=======
-7) muskmelon
->>>>>>> 826a58fa54ef16993d1af252f5f8bbbf57ef6dfd
+8) muskmelon
+9)greenapple
